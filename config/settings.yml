@@ -1,0 +1,4 @@
+plugins:
+  discourse_group_user_webhook_enabled:
+    default: true
+    client: true

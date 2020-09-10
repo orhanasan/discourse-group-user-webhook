@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    discourse_group_user_webhook_enabled: "Group user webhooks plugin enabled"

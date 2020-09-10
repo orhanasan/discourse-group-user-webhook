@@ -1,0 +1,7 @@
+en:
+  js:
+    admin:
+      web_hooks:
+        usergroup_event:
+          name: User Added/Removed from Group Event
+          details: When a user is added or removed from a group.
